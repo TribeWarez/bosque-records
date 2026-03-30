@@ -21,7 +21,7 @@
     "cors": "^2.8.5"
   },
   "devDependencies": {
-    "prisma": "^4.16.2",
+    "prisma": "^7.6.0",
     "bun-types": "^0.7.0"
   }
 }
