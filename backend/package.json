@@ -12,15 +12,15 @@
     "ci": "bunx prisma generate && bunx prisma db push && bun test"
   },
   "dependencies": {
-    "elysia": "0.7.31",
+    "elysia": "1.4.31",
     "@elysiajs/cors": "0.7.2",
     "@elysiajs/static": "0.7.1",
     "@prisma/client": "^4.16.2",
     "bcrypt": "^5.1.1",
     "stripe": "^14.21.0",
     "nodemailer": "^6.9.13",
-    "express": "^4.18.2",
-    "cors": "^2.8.5"
+    "express": "^4.22.3",
+    "cors": "^2.8.6"
   },
   "devDependencies": {
     "prisma": "^4.16.2",
